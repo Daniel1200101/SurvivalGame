@@ -50,7 +50,7 @@ Activity_Game:
   Step Generation Logic:
   -----------------------
   • If ID length < 9:
-    → Use default steps: [1, 1, 1, 2, 2, 2, 3, 3, 3]
+     Use default steps: [1, 1, 1, 2, 2, 2, 3, 3, 3]
   
   • If ID length == 9:
     → Convert each character in the ID to an integer.
