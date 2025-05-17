@@ -64,14 +64,5 @@ Activity_Game:
     2 - Up
     3 - Down
 
-  Gameplay Flow:
-  --------------
-  - Each arrow button is initialized with an onClick listener.
-  - When a player taps an arrow:
-    • The selected direction is compared to the expected step.
-    • If incorrect, the game flags failure.
-    • If all steps are completed correctly, the player wins.
-  - At the end:
-    • Displays a Toast message indicating win or failure.
-    • Returns to the previous activity.
+ 
 
